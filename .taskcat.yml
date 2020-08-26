@@ -14,7 +14,7 @@ tests:
     
     parameters:
       AvailabilityZones: "$[taskcat_getaz_2]"
-      EmailAddress: email@yourdomain.com
+      EmailAddress: nihitpokhrel1@gmail.com
       KeyPairName: QS
       WebserverCIDR: "0.0.0.0/0"
       QSS3KeyPrefix: "qs-workshop/"
